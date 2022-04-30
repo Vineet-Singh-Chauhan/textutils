@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vineet-Singh-Chauhan/textutils/static/css/main.cb8bb709.css",
+    "main.js": "/Vineet-Singh-Chauhan/textutils/static/js/main.de188c1b.js",
+    "static/js/787.719ec76d.chunk.js": "/Vineet-Singh-Chauhan/textutils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Vineet-Singh-Chauhan/textutils/index.html",
+    "main.cb8bb709.css.map": "/Vineet-Singh-Chauhan/textutils/static/css/main.cb8bb709.css.map",
+    "main.de188c1b.js.map": "/Vineet-Singh-Chauhan/textutils/static/js/main.de188c1b.js.map",
+    "787.719ec76d.chunk.js.map": "/Vineet-Singh-Chauhan/textutils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb8bb709.css",
+    "static/js/main.de188c1b.js"
+  ]
+}
